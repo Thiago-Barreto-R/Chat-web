@@ -467,6 +467,7 @@ io.on('connection', socket => {
 <p>socket.io</p>
 <p>express</p>
 <p>ejs</p>
+<p>jquery</p>
 
 </section>
 

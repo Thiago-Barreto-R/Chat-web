@@ -9,7 +9,7 @@
 
 <p align="center">
  <a href="#comousar">Como usar</a> •
- <a href="#comousar">Sobre</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#contribuicoes">Contribuiçoõs</a> •
  <a href="#license">Licença</a> •

@@ -12,7 +12,7 @@
  <a href="#comousar">Sobre</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#contribuicoes">Contribuiçoõs</a> •
- <a href="#licenc-a">Licença</a> •
+ <a href="#license">Licença</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -484,7 +484,7 @@ io.on('connection', socket => {
 <img src="#" alt="foto de perfil" /> Thiago Barreto R.
 
 
-<h3 id="licensa">Licença</h3>
+<h3 id="license">Licença</h3>
 
 Este projeto esta sobe a <a href="./license">licença MIT</a>.
 
